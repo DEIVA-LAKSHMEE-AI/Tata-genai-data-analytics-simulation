@@ -1,7 +1,3 @@
-# Tata-genai-data-analytics-simulation
-Virtual job simulation focused on applying GenAI for predictive analytics and strategic planning in financial services.
-
-
 This project documents my completion of the Tata GenAI Powered Data Analytics virtual job simulation on the Forage platform. The objective was to leverage Generative AI and analytical techniques to address a real-world business challenge of predicting and mitigating customer credit delinquency.
 
 **Key Tasks & Accomplishments:
